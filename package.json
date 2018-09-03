@@ -1,0 +1,24 @@
+{
+  "name": "react-native-alerted",
+  "version": "1.0.0",
+  "description": "Niceish wrapper around React Native Alert API",
+  "main": "index.js",
+  "repository": "https://github.com/tiaanduplessis/react-native-alerted",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "lint": "nitpick"
+  },
+  "devDependencies": {
+    "nitpicky-cli": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "alert"
+  ]
+}
